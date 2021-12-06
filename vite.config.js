@@ -3,10 +3,10 @@ const { resolve } = require('path')
 const { defineConfig } = require('vite')
 
 module.exports = defineConfig({
-  base: '/learn-three.js/',
+  //base: '/learn-three.js/',
   
   build: {
-    outDir: 'docs',
+    //outDir: 'docs',
     
     rollupOptions: {
       input: {
