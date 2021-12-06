@@ -6,7 +6,7 @@ module.exports = defineConfig({
   base: '/learn-three.js/',
   
   build: {
-    //outDir: 'docs',
+    outDir: 'docs',
     
     rollupOptions: {
       input: {
