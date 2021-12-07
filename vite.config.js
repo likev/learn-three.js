@@ -15,6 +15,7 @@ module.exports = defineConfig({
         part2: resolve(__dirname, 'Add-OrbitControls/Add-OrbitControls.html'),
         part3: resolve(__dirname, 'draw-line/draw-line.html'),
         part4: resolve(__dirname, 'draw-text/draw-text.html'),
+        part5: resolve(__dirname, 'draw-points/draw-points.html'),
       }
     }
   }
