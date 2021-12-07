@@ -16,6 +16,7 @@ module.exports = defineConfig({
         part3: resolve(__dirname, 'draw-line/draw-line.html'),
         part4: resolve(__dirname, 'draw-text/draw-text.html'),
         part5: resolve(__dirname, 'draw-points/draw-points.html'),
+        part6: resolve(__dirname, 'add-light/add-light.html'),
       }
     }
   }
